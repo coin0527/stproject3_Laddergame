@@ -12,6 +12,8 @@ const Wrap = styled.div`
 `;
 const Container = styled.div``;
 const Menu = styled.div`
+  width: 30px;
+  height: 30px;
   font-size: 30px;
   cursor: pointer;
 `;
