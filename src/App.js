@@ -23,6 +23,7 @@ const Box = styled.div`
   line-height: 80px;
   font-size: 30px;
   font-weight: 700;
+  background-color: #fff;
 `;
 const ImageBox1 = styled.div`
   width: 100%;
@@ -59,13 +60,16 @@ export const App = () => {
           오목
         </Box>
         <Box>
-          <ImageBox2 />-
+          <ImageBox2 />
+          Comming Soon
         </Box>
         <Box>
-          <ImageBox3 />-
+          <ImageBox3 />
+          Comming Soon
         </Box>
         <Box>
-          <ImageBox4 />-
+          <ImageBox4 />
+          Comming Soon
         </Box>
       </Con>
       <Footer />

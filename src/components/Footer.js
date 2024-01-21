@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Wrap = styled.div`
   position: absolute;
-  bottom: 0;
+  bottom: 15px;
   left: 45%;
 `;
 

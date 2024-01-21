@@ -6,9 +6,8 @@ const Wrap = styled.div`
   height: 60px;
   background-color: #eee;
   border-radius: 10px;
-  line-height: 60px;
   padding: 10px 5%;
-  margin: 0 auto;
+  margin: 10px auto;
 `;
 const Container = styled.div``;
 const Menu = styled.div`
@@ -20,7 +19,7 @@ const Menu = styled.div`
 const Logo = styled.div`
   font-size: 30px;
   position: absolute;
-  top: 15px;
+  top: 25px;
   left: 45%;
 `;
 
