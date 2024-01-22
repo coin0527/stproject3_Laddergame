@@ -50,7 +50,7 @@ const ImageBox4 = styled.div`
   background-size: cover;
 `;
 
-export const App = () => {
+export const Home = () => {
   return (
     <Wrap>
       <Header />
